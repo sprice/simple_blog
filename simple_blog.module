@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the simple_blog feature.
+ */
+
+include_once('simple_blog.features.inc');
